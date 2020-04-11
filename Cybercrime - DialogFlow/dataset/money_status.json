@@ -1,0 +1,298 @@
+[
+  {
+    "post": "yes I gave",
+    "intent": "money_lost"
+  },
+  {
+    "post": "no I did not give",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes I transferred the amount",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes i did send the demanded amount",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes i did",
+    "intent": "money_lost"
+  },
+  {
+    "post": "did not transfer",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no money debited",
+    "intent": "money_safe"
+  },
+  {
+    "post": "not given",
+    "intent": "money_safe"
+  },
+  {
+    "post": "they took my money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "he took my money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yeah I sent the money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I did not do the transaction",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no amount sent",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no money transaction done",
+    "intent": "money_safe"
+  },
+  {
+    "post": "sure I did",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes I transferred money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I refused",
+    "intent": "money_safe"
+  },
+  {
+    "post": "given",
+    "intent": "money_lost"
+  },
+  {
+    "post": "they took money then only",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I did not agree to send money",
+    "intent": "money_safe"
+  },
+  {
+    "post": "hmm",
+    "intent": "money_lost"
+  },
+  {
+    "post": "no money transferred",
+    "intent": "money_safe"
+  },
+  {
+    "post": "I was about to but I did not send",
+    "intent": "money_safe"
+  },
+  {
+    "post": "I did not agree to transfer the amount",
+    "intent": "money_safe"
+  },
+  {
+    "post": "gave then itself",
+    "intent": "money_lost"
+  },
+  {
+    "post": "money is safe",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no way",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no money sent",
+    "intent": "money_safe"
+  },
+  {
+    "post": "money was not debited",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes I have transferred it",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I luckily didn't send",
+    "intent": "money_safe"
+  },
+  {
+    "post": "sent",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yo",
+    "intent": "money_lost"
+  },
+  {
+    "post": "no no",
+    "intent": "money_safe"
+  },
+  {
+    "post": "nah",
+    "intent": "money_safe"
+  },
+  {
+    "post": "I am glad I didn't do that",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no I didn't give",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no I didn't send it",
+    "intent": "money_safe"
+  },
+  {
+    "post": "no",
+    "intent": "money_safe"
+  },
+  {
+    "post": "already sent",
+    "intent": "money_lost"
+  },
+  {
+    "post": "transferred",
+    "intent": "money_lost"
+  },
+  {
+    "post": "he asked but I refused to send money",
+    "intent": "money_safe"
+  },
+  {
+    "post": "I did not transfer any money",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I think I sent money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes I have transferred",
+    "intent": "money_lost"
+  },
+  {
+    "post": "ya",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I did not send",
+    "intent": "money_safe"
+  },
+  {
+    "post": "sent immediately",
+    "intent": "money_lost"
+  },
+  {
+    "post": "i pay the exact amount asked for",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I refused to send",
+    "intent": "money_safe"
+  },
+  {
+    "post": "i followed the steps and made a payment",
+    "intent": "money_lost"
+  },
+  {
+    "post": "he asked money and I gave",
+    "intent": "money_lost"
+  },
+  {
+    "post": "i'm thinking about it",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes I gave the money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yeah I did",
+    "intent": "money_lost"
+  },
+  {
+    "post": "no I did not transfer",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yess",
+    "intent": "money_lost"
+  },
+  {
+    "post": "I gave",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes I did",
+    "intent": "money_lost"
+  },
+  {
+    "post": "sent long back",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yeah",
+    "intent": "money_lost"
+  },
+  {
+    "post": "i am confused",
+    "intent": "money_safe"
+  },
+  {
+    "post": "still thinking",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes I sent the money",
+    "intent": "money_lost"
+  },
+  {
+    "post": "yes i send the amount",
+    "intent": "money_lost"
+  },
+  {
+    "post": "we did not send money",
+    "intent": "money_safe"
+  },
+  {
+    "post": "yes i paid the asked amount",
+    "intent": "money_lost"
+  },
+  {
+    "post": "i followed teh link to pay the amount",
+    "intent": "money_lost"
+  },
+  {
+    "post": "no not yet",
+    "intent": "money_safe"
+  },
+  {
+    "post": "not yet",
+    "intent": "money_safe"
+  },
+  {
+    "post": "not until now",
+    "intent": "money_safe"
+  },
+  {
+    "post": "not",
+    "intent": "money_safe"
+  },
+  {
+    "post": "I refused to credit to his account",
+    "intent": "money_safe"
+  }
+]

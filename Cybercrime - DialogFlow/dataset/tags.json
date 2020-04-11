@@ -1,0 +1,2278 @@
+[
+  {
+    "post": "money is debited but the receiver says otherwise",
+    "intent": "no_crime"
+  },
+  {
+    "post": "message received from ICICI prudential that I had won a grand prize of 2 crores from their side.",
+    "intent": "lottery"
+  },
+  {
+    "post": "work scam",
+    "intent": "job"
+  },
+  {
+    "post": "I paid money for Tower installation",
+    "intent": "lottery"
+  },
+  {
+    "post": "money demanded to get work",
+    "intent": "job"
+  },
+  {
+    "post": "my twitter id is hacked , what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "somebody is posting fake news from my account",
+    "intent": "hacking"
+  },
+  {
+    "post": "somebody has posted my nude photos, pictures online , what should I do immediately",
+    "intent": "harassment"
+  },
+  {
+    "post": "bank called and asked for PIN of my credit card",
+    "intent": "financial"
+  },
+  {
+    "post": "I need your help in getting my money back which I sent to a company who assured me a job",
+    "intent": "job"
+  },
+  {
+    "post": "transactions happening in my bank account , I am not doing that",
+    "intent": "financial"
+  },
+  {
+    "post": "I registered my account for Pradhan Mantri Jan Dhan Yojna is it a scam",
+    "intent": "no_crime"
+  },
+  {
+    "post": "my facebook account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "money transferred to HR manager for job offer",
+    "intent": "job"
+  },
+  {
+    "post": "What should I do if someone is harassing me on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "Somebody is using my picture as their WhatsApp profile photo and contacting my friends and relatives with a number. How and where can I complain if I have that person's WhatsApp number?",
+    "intent": "harassment"
+  },
+  {
+    "post": "yesterday I got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I need your help in logging into my twitter. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "money sent to recruiting officer for processing my job request",
+    "intent": "job"
+  },
+  {
+    "post": "someone is spreading corona virus in my locality, will this come under cyber crime",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "received email that my account has been credited with 10 lakh INR rupees but first I should pay 25 thousand processing fees",
+    "intent": "lottery"
+  },
+  {
+    "post": "What should I do if I am being harassed online?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I need your help in knowing if I have been a victim of any data theft frauds",
+    "intent": "data theft"
+  },
+  {
+    "post": "How to get my lost money from a thief in the street",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "why am I not getting placed in any company",
+    "intent": "no_crime"
+  },
+  {
+    "post": "my insta has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "Someone is logged in to my twitter",
+    "intent": "hacking"
+  },
+  {
+    "post": "cyber bullying is when someone,especially teens harass or bully each other on the internet",
+    "intent": "harassment"
+  },
+  {
+    "post": "someone or some people are misusing my private information and distributing it",
+    "intent": "data theft"
+  },
+  {
+    "post": "windows 7 got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "posting nude pictures ,  nude videos or nude content without consent is an offense and constitutes harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "harassment includes monitoring, identity thefts , threats, vandalism, solicitation for sex",
+    "intent": "harassment"
+  },
+  {
+    "post": "I forgot password of my Internet Banking account",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I paid money but he said I did not receive the money",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I sent the money to a friend , he refuses to return",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I got a mail that my twitter has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a mail that my facebook has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "I have received threatening emails online, what is the correct way to deal with it ?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am feeling that my personal data has been stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "what should I do if my account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "what can I do if I am not able to log into my snapchat handle",
+    "intent": "hacking"
+  },
+  {
+    "post": "money debit from debit card , I did not use it",
+    "intent": "financial"
+  },
+  {
+    "post": "got job but they are asking money to process my call letter",
+    "intent": "job"
+  },
+  {
+    "post": "can I file a suit if my account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "Got mail demanding 40K for lottery prize",
+    "intent": "lottery"
+  },
+  {
+    "post": "I don’t know how but my social media accounts are being handled by someone I don’t know",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone ran away with my bag snatched",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "i lost some money because of responding to a lucky draw quiz",
+    "intent": "lottery"
+  },
+  {
+    "post": "I saw a message that if I send 20 thousand rupees, I will be awarded with 2 lakh gifts. Is this legit?",
+    "intent": "lottery"
+  },
+  {
+    "post": "I need your help in logging into my snapchat. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "some people are bullying me online",
+    "intent": "harassment"
+  },
+  {
+    "post": "What should I do if someone is abusing me on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am being bullied on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "posting morphed pictures or private pictures of a woman ,man or children without consent is harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "my linkedin account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone stole my wallet",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "i entered UPI pin for money request which I did not want to send money to",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "where can I get job easily",
+    "intent": "no_crime"
+  },
+  {
+    "post": "loss of info from drive onedrive dropbox",
+    "intent": "data theft"
+  },
+  {
+    "post": "I got a message that I will be receiving New Year offer gifts but I need to pay the servicing fee charges",
+    "intent": "lottery"
+  },
+  {
+    "post": "someone is posting abusive content from my twitter account. I don’t know how he got access to my account",
+    "intent": "hacking"
+  },
+  {
+    "post": "what can I do if someone is posting hate comments on my facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "I got a job offer email from a company offering me a full time position. They requested me to pay them some token amount as security which would be returned to me when I start the work. But they are not responding to any of my emails and calls since then. I feel i was cheated and i need your help to get my money back. Please help.",
+    "intent": "job"
+  },
+  {
+    "post": "info stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "Someone is logged in to my youtube",
+    "intent": "hacking"
+  },
+  {
+    "post": "how do I get my money back which I sent to a company for job",
+    "intent": "job"
+  },
+  {
+    "post": "I lost money using BHIM",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "biometrics have been stole",
+    "intent": "data theft"
+  },
+  {
+    "post": "misuse of personal information",
+    "intent": "data theft"
+  },
+  {
+    "post": "somebody is using my facebook account",
+    "intent": "hacking"
+  },
+  {
+    "post": "what to do if my account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my instagram is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "information leak",
+    "intent": "data theft"
+  },
+  {
+    "post": "my twitter is hacked how can I block it",
+    "intent": "hacking"
+  },
+  {
+    "post": "data compromised",
+    "intent": "data theft"
+  },
+  {
+    "post": "I want a job",
+    "intent": "no_crime"
+  },
+  {
+    "post": "Message received regarding lucky draw winner",
+    "intent": "lottery"
+  },
+  {
+    "post": "outlook is not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "How to retrieve money from my life insurance agent",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I am being harassed online",
+    "intent": "harassment"
+  },
+  {
+    "post": "wrong login id and password",
+    "intent": "hacking"
+  },
+  {
+    "post": "emailing is not happening because login ID and password is not matched",
+    "intent": "hacking"
+  },
+  {
+    "post": "got a message from Lakshmi chit fund that I will be getting twice the money I give them in 21 days",
+    "intent": "lottery"
+  },
+  {
+    "post": "I did not get a job in oracle",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I sent money to a different UPI Id",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "instagram is not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "I lost money using PayTM",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I instagram handle is not letting me login",
+    "intent": "hacking"
+  },
+  {
+    "post": "The login ID or password that you entered doesn not match with any credentials",
+    "intent": "hacking"
+  },
+  {
+    "post": "is it possible that I was hacked?",
+    "intent": "hacking"
+  },
+  {
+    "post": "I sent money to a girl but she stopped talking to me",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "someone is harassing me on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "when I block someone on instagram, do their likes and comments disappear from my photos and videos?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I received a message today saying that I have won 2 crore rupees and asked me to transfer the processing fee of Rs. 24,000.",
+    "intent": "lottery"
+  },
+  {
+    "post": "harassment can also include stalking components",
+    "intent": "harassment"
+  },
+  {
+    "post": "leaking of sensitiveb content",
+    "intent": "data theft"
+  },
+  {
+    "post": "transferred money to manager for job offer",
+    "intent": "job"
+  },
+  {
+    "post": "someone had deleted all our personal data",
+    "intent": "data theft"
+  },
+  {
+    "post": "I lost my sandals outside mosque",
+    "intent": "no_crime"
+  },
+  {
+    "post": "leak of bank information",
+    "intent": "data theft"
+  },
+  {
+    "post": "What can be done to save ourselves from life insurance telecallers",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I lost money using Apple Pay",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "somebody has posted my  private videos on porn sites or on the internet ,  what can be done now ?",
+    "intent": "harassment"
+  },
+  {
+    "post": "someone is harassing me online.",
+    "intent": "harassment"
+  },
+  {
+    "post": "someone from bank called and asked for credit card number PIN , CVV , Expiry date , Name on Card and OTP and I told them the information",
+    "intent": "financial"
+  },
+  {
+    "post": "linkedin not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "yesterday my facebook got hacked and today I am not able to log on to my instagram",
+    "intent": "hacking"
+  },
+  {
+    "post": "murdered",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "my instagram account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my private information like my date of birth and other information have been leaked",
+    "intent": "data theft"
+  },
+  {
+    "post": "I lost my password for internet banking",
+    "intent": "no_crime"
+  },
+  {
+    "post": "my facebook is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "Someone is posting my pictures on instagram without my permission. What do I do?",
+    "intent": "harassment"
+  },
+  {
+    "post": "what is the remedy if my account facebook account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "What can I do if someone I know is being impersonated on Twitter?",
+    "intent": "harassment"
+  },
+  {
+    "post": "Idea demanded 26000 rupees for tower installation",
+    "intent": "lottery"
+  },
+  {
+    "post": "cannot login my instagram",
+    "intent": "hacking"
+  },
+  {
+    "post": "What should I do if someone is sending me abusive messages on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "Is LIC similar to a lottery fraud",
+    "intent": "no_crime"
+  },
+  {
+    "post": "harassment includes gathering information for sex , or gathering information that may be used to threaten, embarrass , harass the victim or any person",
+    "intent": "harassment"
+  },
+  {
+    "post": "which is the best year for doing cyber crime",
+    "intent": "no_crime"
+  },
+  {
+    "post": "wrong login ID or password",
+    "intent": "hacking"
+  },
+  {
+    "post": "The login username password does not match",
+    "intent": "hacking"
+  },
+  {
+    "post": "some of my private data has been missing",
+    "intent": "data theft"
+  },
+  {
+    "post": "Swiggy gives coupons to me, is it a lottery fraud",
+    "intent": "no_crime"
+  },
+  {
+    "post": "they said they had job openings for which they want me to give money",
+    "intent": "job"
+  },
+  {
+    "post": "It says your login username and password is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "my friend is not returning my money which he took for party",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I got a message that my number has won 2 crores in Idea Cup challenge",
+    "intent": "lottery"
+  },
+  {
+    "post": "I shared OTP",
+    "intent": "financial"
+  },
+  {
+    "post": "what time is it?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "information is compromised",
+    "intent": "data theft"
+  },
+  {
+    "post": "I cannot login to my facebook",
+    "intent": "hacking"
+  },
+  {
+    "post": "How to get back money lost in railway station",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I am being harassed by someone for sexual favours",
+    "intent": "harassment"
+  },
+  {
+    "post": "there has been an anonymous mail stating that our data is in danger, should I worry",
+    "intent": "data theft"
+  },
+  {
+    "post": "Is LIC jeevan beema same as chit funds",
+    "intent": "no_crime"
+  },
+  {
+    "post": "how do i report a crime for impersonation",
+    "intent": "harassment"
+  },
+  {
+    "post": "I was demanded money for job",
+    "intent": "job"
+  },
+  {
+    "post": "I need your help in logging into my linkedin. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "I approved gift money request from a girl",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I am getting vulgar phone calls at night , what should I do to stop it",
+    "intent": "harassment"
+  },
+  {
+    "post": "I  have received a message that I have won a lottery",
+    "intent": "lottery"
+  },
+  {
+    "post": "I cannot login to my youtube",
+    "intent": "hacking"
+  },
+  {
+    "post": "how do I get past the login page of fb, it says wrong password",
+    "intent": "hacking"
+  },
+  {
+    "post": "Reporting harassment or bullying on instagram",
+    "intent": "harassment"
+  },
+  {
+    "post": "my social accounts are all hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I have paid processing charges for lottery how can I get it back",
+    "intent": "lottery"
+  },
+  {
+    "post": "our customer data and services have been leaked online",
+    "intent": "data theft"
+  },
+  {
+    "post": "someone has made a revenge porn of me and posted it online , what should I do to take it down ?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I lost my credit card",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "some one is stalking me on facebook what should I do",
+    "intent": "harassment"
+  },
+  {
+    "post": "fb not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "message received from IDBI bank that I had won a grand prize of 2 crores from their side.",
+    "intent": "lottery"
+  },
+  {
+    "post": "how to perform well in interviews",
+    "intent": "no_crime"
+  },
+  {
+    "post": "bank called and asked for OTP which I just received",
+    "intent": "financial"
+  },
+  {
+    "post": "I think my personal data has been compromised",
+    "intent": "data theft"
+  },
+  {
+    "post": "I had logged into facebook yesterday but today it is saying my profile is already logged in",
+    "intent": "hacking"
+  },
+  {
+    "post": "somebody is threatening me on  facebook can I stop him?",
+    "intent": "harassment"
+  },
+  {
+    "post": "what if you are hacking me right now",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I cannot open fb anymore",
+    "intent": "hacking"
+  },
+  {
+    "post": "cyberbullying or cyber harassment is a form of harassment or bullying using electronic means",
+    "intent": "harassment"
+  },
+  {
+    "post": "I bought a house for some amount and now I want to sell it but the buyers are demanding more money",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "somebody has posted private pictures online what should I do",
+    "intent": "harassment"
+  },
+  {
+    "post": "I applied for a job but they are not hiring me",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I sent money to an unknow UPI ID which requested for money",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "i saw someone murdering someone",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I lost money using debit card , I did not use it",
+    "intent": "financial"
+  },
+  {
+    "post": "I paid money through google pay in a shop but he refused acknowledgment",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "job fraud",
+    "intent": "job"
+  },
+  {
+    "post": "I have got selected for the post of sales intern and they want me to send money to them",
+    "intent": "job"
+  },
+  {
+    "post": "what can I do if I am not able to log into my instagram account",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone called and asked for card number , PIN and Expiry date",
+    "intent": "financial"
+  },
+  {
+    "post": "what can I do if my account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "not allowing me to log into Gmail",
+    "intent": "hacking"
+  },
+  {
+    "post": "donated extra money in the temple donation box",
+    "intent": "no_crime"
+  },
+  {
+    "post": "in some cases it contributes to bullying and many people may join in",
+    "intent": "harassment"
+  },
+  {
+    "post": "What can be done to save ourselves from life insurance frauds",
+    "intent": "no_crime"
+  },
+  {
+    "post": "Someone called me and congratulated me for a grand victory of the ultimate challenge prize money. What to do now?",
+    "intent": "lottery"
+  },
+  {
+    "post": "how can I get my money back if I added an extra 0 by mistake",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I am being harassed on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "I did not share my banking details over the phone",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I received a message yesterday telling me that I have won 100K USD and advised to transfer the processing fee of 18 lakh rupees and I transferred the said amount",
+    "intent": "lottery"
+  },
+  {
+    "post": "I got a request from an unknown number",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "can you help me get me my money back which I paid for the job",
+    "intent": "job"
+  },
+  {
+    "post": "I have paid transfer charges for lottery how can I get it back",
+    "intent": "lottery"
+  },
+  {
+    "post": "I lost my shoes outside temple",
+    "intent": "no_crime"
+  },
+  {
+    "post": "harassment includes following the target across all the sites he uses , contacting the person's friend that upsets him",
+    "intent": "harassment"
+  },
+  {
+    "post": "My smartphone got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "can you find me a good job",
+    "intent": "no_crime"
+  },
+  {
+    "post": "why it is that I am not able to log on to my linkedin",
+    "intent": "hacking"
+  },
+  {
+    "post": "I think I got scammed by  a company who were assuring me a job but asked me to pay some recruitment fee",
+    "intent": "job"
+  },
+  {
+    "post": "I connected my laptop to a coffee shop wifi and now my laptop data is all over the internet",
+    "intent": "data theft"
+  },
+  {
+    "post": "I got a notification that I have won a lottery prize",
+    "intent": "lottery"
+  },
+  {
+    "post": "Tell me some dad jokes",
+    "intent": "no_crime"
+  },
+  {
+    "post": "please help me get my money back which I sent to a person assuring me a job",
+    "intent": "job"
+  },
+  {
+    "post": "I want to know if I really have won any lottery which I was informed about",
+    "intent": "lottery"
+  },
+  {
+    "post": "I needed a job so I sent money to a person who called me and adviced me to send money to him in return of job at his company",
+    "intent": "job"
+  },
+  {
+    "post": "my operating system is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my company had a data breach yesterday",
+    "intent": "data theft"
+  },
+  {
+    "post": "why does this website shows that my login username and password are incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "I am being bullied online",
+    "intent": "harassment"
+  },
+  {
+    "post": "I got a  call from unknown number and have won a prize in a lottery",
+    "intent": "lottery"
+  },
+  {
+    "post": "I had responded to job offer by giving money",
+    "intent": "job"
+  },
+  {
+    "post": "my snapchat id is hacked , what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "online harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "someone adviced me to buy house for cheap and took my advance money",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "have I been a victim of data theft fraud",
+    "intent": "data theft"
+  },
+  {
+    "post": "data leak",
+    "intent": "data theft"
+  },
+  {
+    "post": "my bank called and asked for Debit Card Number , PIN , CVV , Expiry date and OTP",
+    "intent": "financial"
+  },
+  {
+    "post": "I think my personal data has been leaked",
+    "intent": "data theft"
+  },
+  {
+    "post": "I am being stalked on facebook , how can I stop it",
+    "intent": "harassment"
+  },
+  {
+    "post": "what to do in a job interview",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I got a text that my twitter has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "my personal phone number has been posted on facebook comments , what action should I take",
+    "intent": "harassment"
+  },
+  {
+    "post": "Someone is logged in to my instagram",
+    "intent": "hacking"
+  },
+  {
+    "post": "got mail that my email won 15 thousand rupees but they are demanding 25000 first",
+    "intent": "lottery"
+  },
+  {
+    "post": "my system has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "How do I restrict someone on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "my data is in risk of getting stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "Hey, have I won any lottery? I got a message saying that",
+    "intent": "lottery"
+  },
+  {
+    "post": "I strongly feel that someone has intruded in our network and caught hold of our sensitive information",
+    "intent": "data theft"
+  },
+  {
+    "post": "snapchat is not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "I forgot my PIN of debit card",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I am getting calls from unknown numbers , saying cheap things",
+    "intent": "harassment"
+  },
+  {
+    "post": "How do I help a person who has posted suicidal content on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "my instagram is hacked how can I block it",
+    "intent": "hacking"
+  },
+  {
+    "post": "I paid the money but he says he did not get the money , am I scammed",
+    "intent": "no_crime"
+  },
+  {
+    "post": "how to learn hacking",
+    "intent": "no_crime"
+  },
+  {
+    "post": "What can I do if I am getting abusive messages, threats and hatred on my social media?",
+    "intent": "harassment"
+  },
+  {
+    "post": "SOMEONE called and asked for CVV Number and I told",
+    "intent": "financial"
+  },
+  {
+    "post": "cyberbullying and cyber harassment are known  as harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "Is calling police a crime in india",
+    "intent": "no_crime"
+  },
+  {
+    "post": "someone is harassing me on instagram how can I stop it",
+    "intent": "harassment"
+  },
+  {
+    "post": "what can I do if I am being threatened online",
+    "intent": "harassment"
+  },
+  {
+    "post": "I uploaded some data pics softwares on drive but now it is all over the internet",
+    "intent": "data theft"
+  },
+  {
+    "post": "I think my personal adhaar data has been leaked online, please help me",
+    "intent": "data theft"
+  },
+  {
+    "post": "somebody posted my personal, private photos online , what am I supposed to do",
+    "intent": "harassment"
+  },
+  {
+    "post": "I don�t have a job, where can I find one",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I lost money using Amazon Pay",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "is it a possibility that someone hacked and changed my user id and password",
+    "intent": "hacking"
+  },
+  {
+    "post": "I need your help in logging into my youtube. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "why it is that I am not able to log on to my twitter",
+    "intent": "hacking"
+  },
+  {
+    "post": "misuse of sensitive information",
+    "intent": "data theft"
+  },
+  {
+    "post": "loss of information",
+    "intent": "data theft"
+  },
+  {
+    "post": "huge purchase made using credit card and I did not use it",
+    "intent": "financial"
+  },
+  {
+    "post": "my social media accounts got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my system got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I mistakenly approved a spam payment request",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I received job offer via email stating that I have been shortlisted for job post but they require me to transfer money to their account",
+    "intent": "job"
+  },
+  {
+    "post": "not allowing me to log into instagram",
+    "intent": "hacking"
+  },
+  {
+    "post": "I was demanded 2 lakh rupees for my job",
+    "intent": "job"
+  },
+  {
+    "post": "My personal data has been spread all over internet",
+    "intent": "data theft"
+  },
+  {
+    "post": "purchase made using debit card and I was completely unaware of it",
+    "intent": "financial"
+  },
+  {
+    "post": "I sent money to company upon their demand for accepting my application",
+    "intent": "job"
+  },
+  {
+    "post": "I got a message that my twitter has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "what can I do if I am not able to log into my twitter handle",
+    "intent": "hacking"
+  },
+  {
+    "post": "I shared my banking details over the phone",
+    "intent": "financial"
+  },
+  {
+    "post": "someone is threatening me for money",
+    "intent": "harassment"
+  },
+  {
+    "post": "someone is bullying me on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "Is LIC jeevan beema same as a lottery system",
+    "intent": "no_crime"
+  },
+  {
+    "post": "What can I do if someone is impersonating me on Twitter?",
+    "intent": "harassment"
+  },
+  {
+    "post": "why it is that I am not able to log on to my snapchat",
+    "intent": "hacking"
+  },
+  {
+    "post": "Money transferred to company for job posting",
+    "intent": "job"
+  },
+  {
+    "post": "can I file a report if my linkedin account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "is it a Monday",
+    "intent": "no_crime"
+  },
+  {
+    "post": "Someone is logged in to my linkedin",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a message saying I won a prize/ did I win?",
+    "intent": "lottery"
+  },
+  {
+    "post": "money lost in job application",
+    "intent": "job"
+  },
+  {
+    "post": "someone is harassing me online",
+    "intent": "harassment"
+  },
+  {
+    "post": "Whom to contact when you are alone",
+    "intent": "no_crime"
+  },
+  {
+    "post": "why do I have to pay taxes to get lottery money",
+    "intent": "lottery"
+  },
+  {
+    "post": "I want to report a hacking crime",
+    "intent": "hacking"
+  },
+  {
+    "post": "what can I do if I am not able to log into my snapchat account",
+    "intent": "hacking"
+  },
+  {
+    "post": "info theft",
+    "intent": "data theft"
+  },
+  {
+    "post": "my videos posted on adult websites, tell me what should I do immediately",
+    "intent": "harassment"
+  },
+  {
+    "post": "my data from the cloud has been leaked",
+    "intent": "data theft"
+  },
+  {
+    "post": "please help me in getting placed",
+    "intent": "no_crime"
+  },
+  {
+    "post": "linkedin is not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a mail which said I have won 15 lakh rupees as a part of lottery prize, they are demanding 230000 rupees as a processing fee. What to do now?",
+    "intent": "lottery"
+  },
+  {
+    "post": "What can I do if someone is impersonating me on Facebook?",
+    "intent": "harassment"
+  },
+  {
+    "post": "can I get compensation for lottery scam which happened to me last week",
+    "intent": "lottery"
+  },
+  {
+    "post": "I am getting messages from random people on social media",
+    "intent": "harassment"
+  },
+  {
+    "post": "my instagram id is hacked , what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "what can I do if I am not able to log into my instagram handle",
+    "intent": "hacking"
+  },
+  {
+    "post": "can I file a report if my snapchat account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "data theft",
+    "intent": "data theft"
+  },
+  {
+    "post": "someone is posting abusive content from my facebook account. I don’t know how he got access to my account",
+    "intent": "hacking"
+  },
+  {
+    "post": "how to hack instagram",
+    "intent": "no_crime"
+  },
+  {
+    "post": "money asking for giving work",
+    "intent": "job"
+  },
+  {
+    "post": "harassment includes false accusations , deafamation, slander and libel",
+    "intent": "harassment"
+  },
+  {
+    "post": "the company where I applied for job sent me regret to inform message",
+    "intent": "no_crime"
+  },
+  {
+    "post": "what should I do if I am being harassed online , engaging directly with the harasser can be dangerous",
+    "intent": "harassment"
+  },
+  {
+    "post": "posted my  nude, personal, engagng in sexual act photo online without my consent",
+    "intent": "harassment"
+  },
+  {
+    "post": "I need your help in logging into my facebook. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "I have got selected for the post of software engineer and they want me to send money to them",
+    "intent": "job"
+  },
+  {
+    "post": "my facebook is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "my facebook is hacked how can I block it",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a message that I will be receiving Diwali bumper offer gifts but I need to pay the servicing fee charges",
+    "intent": "lottery"
+  },
+  {
+    "post": "Money transferred to company for job application",
+    "intent": "job"
+  },
+  {
+    "post": "I found my fake whatsapp profile , what should I do?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I did not approve a spam payment request",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I need some work to do",
+    "intent": "no_crime"
+  },
+  {
+    "post": "What can I do if someone has set a picture of me as his Whatsapp profile picture without my permission?",
+    "intent": "harassment"
+  },
+  {
+    "post": "prize money chit fund",
+    "intent": "lottery"
+  },
+  {
+    "post": "did some one changed the login id of my account?",
+    "intent": "hacking"
+  },
+  {
+    "post": "I made an error while entering the amount",
+    "intent": "no_crime"
+  },
+  {
+    "post": "received job offer via email",
+    "intent": "job"
+  },
+  {
+    "post": "we lost a large chunk of data because of a data breach",
+    "intent": "data theft"
+  },
+  {
+    "post": "I got a message that my number has won 122 crores in Jio challenge",
+    "intent": "lottery"
+  },
+  {
+    "post": "someone has posted private contact numbers online, what should I do",
+    "intent": "harassment"
+  },
+  {
+    "post": "I got a text message that my twitter has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "donated extra money",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I shared PIN of my card",
+    "intent": "financial"
+  },
+  {
+    "post": "I lost money to a person selling me lottery tickets online",
+    "intent": "lottery"
+  },
+  {
+    "post": "what to do if I am being bullied online? what should I do if I am a victim of cyber bullying and harassment?",
+    "intent": "harassment"
+  },
+  {
+    "post": "what happens when I block someone?",
+    "intent": "harassment"
+  },
+  {
+    "post": "what can I do if I am being harassed on twitter",
+    "intent": "harassment"
+  },
+  {
+    "post": "bank called and asked for CVV number of my debit card",
+    "intent": "financial"
+  },
+  {
+    "post": "our customers data has been compromised",
+    "intent": "data theft"
+  },
+  {
+    "post": "abusive nature unwanted contact",
+    "intent": "harassment"
+  },
+  {
+    "post": "my youtube is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "we observed an unauthorized authorization in our private network",
+    "intent": "data theft"
+  },
+  {
+    "post": "Lost money in online lucky draw",
+    "intent": "lottery"
+  },
+  {
+    "post": "scam in job offer",
+    "intent": "job"
+  },
+  {
+    "post": "what to do if my account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I was a victim of work fraud",
+    "intent": "job"
+  },
+  {
+    "post": "how to see whatsapp dp?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I have deposited money to get the lottery money",
+    "intent": "lottery"
+  },
+  {
+    "post": "instagram not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "can I file a report if my instagram account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "bank called and asked for CVV number of my credit card",
+    "intent": "financial"
+  },
+  {
+    "post": "my apple mobile got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I am not able to get into the twitter account which I created. What to do?",
+    "intent": "hacking"
+  },
+  {
+    "post": "why the hell am I not able to log into snapchat",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone is posting abusive content from my instagram account. I don’t know how he got access to my account",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a message that my twitter has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a call from an unknown number to approve payment request",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "Grofers gives coupons to me, is it a lottery fraud",
+    "intent": "no_crime"
+  },
+  {
+    "post": "can I file a report if my twitter account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my personal number has been posted online",
+    "intent": "harassment"
+  },
+  {
+    "post": "What can I do if someone I know is being impersonated on Facebook?",
+    "intent": "harassment"
+  },
+  {
+    "post": "harassment includes publishing unkind material or untruthful material to humiliate or upset him",
+    "intent": "harassment"
+  },
+  {
+    "post": "my snapchat is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my laptop is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "The login page of twitter facebook says my login credentials are wrong, what is this?",
+    "intent": "hacking"
+  },
+  {
+    "post": "how to get hired online",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I sent money to incorrect UPI ID",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I forgot PIN of my credit card",
+    "intent": "no_crime"
+  },
+  {
+    "post": "bank called and asked for OTP which I just received for transaction through credit card",
+    "intent": "financial"
+  },
+  {
+    "post": "transaction happening on credit card without my knowledge",
+    "intent": "financial"
+  },
+  {
+    "post": "I did not receive money from my matured insurance",
+    "intent": "no_crime"
+  },
+  {
+    "post": "is it a Sunday ?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "why the hell am I not able to log into facebook",
+    "intent": "hacking"
+  },
+  {
+    "post": "how to learn cyber crime",
+    "intent": "no_crime"
+  },
+  {
+    "post": "why the companies are not selecting my resume",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I gave extra money to beggar",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I have transferred money to claim prize money  , how can I get it back?",
+    "intent": "lottery"
+  },
+  {
+    "post": "I am receiving harassing emails , what should I do?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I’m worried about someone after seeing content they’ve shared on instagram about suicide or selfinjury. What can I do?",
+    "intent": "harassment"
+  },
+  {
+    "post": "bank called and asked for Name on my debit card and I told",
+    "intent": "financial"
+  },
+  {
+    "post": "Mi got hacked what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "cannot login my email",
+    "intent": "hacking"
+  },
+  {
+    "post": "amount is remitted but the beneficiary declines",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "A person called me regarding offering me a job at his organization. He asked me to send a refundable amount of 20000 for the job which I did. But now he is not picking up my phone. Please help me get my money back",
+    "intent": "job"
+  },
+  {
+    "post": "data breach",
+    "intent": "data theft"
+  },
+  {
+    "post": "how to prepare for job interview",
+    "intent": "no_crime"
+  },
+  {
+    "post": "message received from HDFC bank that I had won a grand prize of 2 crores from their side.",
+    "intent": "lottery"
+  },
+  {
+    "post": "cannot log into snapchat",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone is messaging me online daily with some unwanted advertisement",
+    "intent": "harassment"
+  },
+  {
+    "post": "I got a message saying Zomato credits were credited, is it a lottery scam?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "cyberstalking of intimate partners is the harassment of a current or former romantic partner, it is a form of domestic violence",
+    "intent": "harassment"
+  },
+  {
+    "post": "can i file a case if my account is hacked?",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone has hacked my insta",
+    "intent": "hacking"
+  },
+  {
+    "post": "harassers may send repeated insulting or threatening emails, messages or sms to their victims",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am not able to get into the linkedin account which I created. What to do?",
+    "intent": "hacking"
+  },
+  {
+    "post": "I lost money using PhonePe",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I dropped my wallet somewhere",
+    "intent": "no_crime"
+  },
+  {
+    "post": "my linkedin is hacked how can I block it",
+    "intent": "hacking"
+  },
+  {
+    "post": "been a victim of job opening fraud",
+    "intent": "job"
+  },
+  {
+    "post": "my linkedin id is hacked , what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "my company had a data breach",
+    "intent": "data theft"
+  },
+  {
+    "post": "I cannot use youtube anymore",
+    "intent": "hacking"
+  },
+  {
+    "post": "instagram hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "What can I do if someone I know is being impersonated on Instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "how to block a person on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "I don’t know how my personal data has been deleted",
+    "intent": "data theft"
+  },
+  {
+    "post": "someone has uploaded my video online without my permission, what should I do",
+    "intent": "harassment"
+  },
+  {
+    "post": "i sent money for processing my lottery prize but never got my money",
+    "intent": "lottery"
+  },
+  {
+    "post": "blackmailing me in return of money",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am getting threat messages on instagram how can I stop it",
+    "intent": "harassment"
+  },
+  {
+    "post": "I received a message today saying that I have wonlottery and asked me to transfer the processing fee of Rs. 12000",
+    "intent": "lottery"
+  },
+  {
+    "post": "why it is that I am not able to log on to my facebook",
+    "intent": "hacking"
+  },
+  {
+    "post": "my twitter is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "a boy snatched my purse in metro",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I almost sent the incorrect amount",
+    "intent": "no_crime"
+  },
+  {
+    "post": "job scam",
+    "intent": "job"
+  },
+  {
+    "post": "I have got a work posting in Bengaluru but the company demanding 20 thousand rupees as security deposit",
+    "intent": "job"
+  },
+  {
+    "post": "somebody has made fake profile in my name on facebook. What can I do?",
+    "intent": "harassment"
+  },
+  {
+    "post": "biometrics have been leaked",
+    "intent": "data theft"
+  },
+  {
+    "post": "my linkedin is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "I shared my password of internet banking",
+    "intent": "financial"
+  },
+  {
+    "post": "Hey, have I won any lottery? I got a msg saying that",
+    "intent": "lottery"
+  },
+  {
+    "post": "people from the bank called and asked for Card Number but I did not disclose",
+    "intent": "financial"
+  },
+  {
+    "post": "I need your help in logging into my instagram. It says my login is incorrect",
+    "intent": "hacking"
+  },
+  {
+    "post": "can I file a report if my facebook account is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my sensitive info has been compromised",
+    "intent": "data theft"
+  },
+  {
+    "post": "won a lucky prize in lucky draw",
+    "intent": "lottery"
+  },
+  {
+    "post": "I did not find a job, please help",
+    "intent": "no_crime"
+  },
+  {
+    "post": "Dunzo gives coupons to me, is it a lottery fraud",
+    "intent": "no_crime"
+  },
+  {
+    "post": "what can I do if I am not able to log into my linkedin handle",
+    "intent": "hacking"
+  },
+  {
+    "post": "what should I do if I am getting repeated hate comments on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am getting blackmailed",
+    "intent": "harassment"
+  },
+  {
+    "post": "I shared my CVV",
+    "intent": "financial"
+  },
+  {
+    "post": "I got a message that my number has won 12 crores in Vodaphone challenge",
+    "intent": "lottery"
+  },
+  {
+    "post": "I got a mail that my snapchat has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "lost money after replying to a lucky draw",
+    "intent": "lottery"
+  },
+  {
+    "post": "someone is posting abusive content from my linkedin account. I don’t know how he got access to my account",
+    "intent": "hacking"
+  },
+  {
+    "post": "my linkedin is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "how to get back the stolen data online",
+    "intent": "data theft"
+  },
+  {
+    "post": "my hard disk data has been stolen by somebody",
+    "intent": "data theft"
+  },
+  {
+    "post": "money sent to HR manager",
+    "intent": "job"
+  },
+  {
+    "post": "how can I get hired",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I am being harassed on instagram",
+    "intent": "harassment"
+  },
+  {
+    "post": "somebody posted my private video online , what should I do immediately",
+    "intent": "harassment"
+  },
+  {
+    "post": "why the hell am I not able to log into twitter",
+    "intent": "hacking"
+  },
+  {
+    "post": "harassers may also start sending text messages, calling and taking other offline actions against their targets",
+    "intent": "harassment"
+  },
+  {
+    "post": "how to hack facebook",
+    "intent": "no_crime"
+  },
+  {
+    "post": "data stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "posting abusive pictures, abusive videos or abusive content without consent is an offence and constitutes harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am getting hate comments on my post online what can I do to stop it",
+    "intent": "harassment"
+  },
+  {
+    "post": "I lost my data because of data theft",
+    "intent": "data theft"
+  },
+  {
+    "post": "cannot login my snapchat",
+    "intent": "hacking"
+  },
+  {
+    "post": "which is the best company to get hired",
+    "intent": "no_crime"
+  },
+  {
+    "post": "snapchat not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "how can I get my money back if I added an extra zero by mistake",
+    "intent": "no_crime"
+  },
+  {
+    "post": "spam calls come to me for approving payment requests but I deny",
+    "intent": "no_crime"
+  },
+  {
+    "post": "someone stole my purse",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "my snapchat is hacked how can I block it",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone called and asked for OTP and I told",
+    "intent": "financial"
+  },
+  {
+    "post": "I was harassed by him in return for favours",
+    "intent": "harassment"
+  },
+  {
+    "post": "Officer  from bank asked to tell personal account information",
+    "intent": "no_crime"
+  },
+  {
+    "post": "harassment on adult websites",
+    "intent": "harassment"
+  },
+  {
+    "post": "my snapchat is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "I shared login details of internet banking",
+    "intent": "financial"
+  },
+  {
+    "post": "some hackers stole our data and are releasing that for free",
+    "intent": "data theft"
+  },
+  {
+    "post": "why the hell am I not able to log into linkedin",
+    "intent": "hacking"
+  },
+  {
+    "post": "my mobile got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "I feel that my sensitive information has been stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "unable to login to yahoo",
+    "intent": "hacking"
+  },
+  {
+    "post": "why does my computer shows unlock with bitcoins",
+    "intent": "hacking"
+  },
+  {
+    "post": "What is the exact cost for tower installation at my home",
+    "intent": "lottery"
+  },
+  {
+    "post": "data loss",
+    "intent": "data theft"
+  },
+  {
+    "post": "people are posting hate comments on my post on facebook",
+    "intent": "harassment"
+  },
+  {
+    "post": "somebody hacked my mobile phone",
+    "intent": "hacking"
+  },
+  {
+    "post": "I want your help in looking for a good job for me",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I was asked to pay money to get lottery , should I pay",
+    "intent": "lottery"
+  },
+  {
+    "post": "bank called and asked for PIN of my debit card",
+    "intent": "financial"
+  },
+  {
+    "post": "What can I do if someone is impersonating me on Instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "how many weeks are there in a month",
+    "intent": "no_crime"
+  },
+  {
+    "post": "What can I do if someone is bullying and harassing me on internet?",
+    "intent": "harassment"
+  },
+  {
+    "post": "Do I need to pay any money for the lottery prize that was assured to me in the SMS",
+    "intent": "lottery"
+  },
+  {
+    "post": "I heard some people are distributing fake 500 and 2000 rupee notes",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "how can I block a fake profile on facebook?",
+    "intent": "harassment"
+  },
+  {
+    "post": "how to deal with harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "I got a request to send money on a e-wallet but I did not approve it",
+    "intent": "no_crime"
+  },
+  {
+    "post": "What is blocking On facebook and how do I block someone on facebook ?",
+    "intent": "harassment"
+  },
+  {
+    "post": "cannot log into linkedin",
+    "intent": "hacking"
+  },
+  {
+    "post": "my computer got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my facebook account is handled by someone I don’t know",
+    "intent": "hacking"
+  },
+  {
+    "post": "I think my personal data has been stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "I am getting bad vulgur unwanted messages online",
+    "intent": "harassment"
+  },
+  {
+    "post": "When would LIC insurances mature",
+    "intent": "no_crime"
+  },
+  {
+    "post": "harassment is repeat unsolicited and abusive contact with the goal of intimidating ,annoying or frightening the target",
+    "intent": "harassment"
+  },
+  {
+    "post": "money debited from credit card",
+    "intent": "financial"
+  },
+  {
+    "post": "he wants money otherwise he would leak my private things online",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am starting to receive many unappealing bad messages on internet",
+    "intent": "harassment"
+  },
+  {
+    "post": "my biometrics have been stolen",
+    "intent": "data theft"
+  },
+  {
+    "post": "how can I get back the leaked data",
+    "intent": "data theft"
+  },
+  {
+    "post": "cannot log into instagram",
+    "intent": "hacking"
+  },
+  {
+    "post": "I think my system admin sold our private company data to some unauthorized personnel",
+    "intent": "data theft"
+  },
+  {
+    "post": "Please help me signin to this website In which I had created an account earlier",
+    "intent": "hacking"
+  },
+  {
+    "post": "someone called me and asked me to send some money for job",
+    "intent": "job"
+  },
+  {
+    "post": "how can I hack google",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I lost money using Google Pay",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "my personal data has been deleted or lost",
+    "intent": "data theft"
+  },
+  {
+    "post": "cannot login my linkedin",
+    "intent": "hacking"
+  },
+  {
+    "post": "Bigbasket gives coupons to me, is it a lottery fraud",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I am receiving obscene calls or sexy chat requests",
+    "intent": "harassment"
+  },
+  {
+    "post": "Vegetable vendor did not give me discount",
+    "intent": "no_crime"
+  },
+  {
+    "post": "i sent money for processing my lottery prize but never got my money",
+    "intent": "lottery"
+  },
+  {
+    "post": "I got a mail that my instagram has been hacked by some hackers called Anonymous",
+    "intent": "hacking"
+  },
+  {
+    "post": "myspace not opening",
+    "intent": "hacking"
+  },
+  {
+    "post": "cyber bullying is one form of harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "by mistake I sent the incorrect amount through google Pay",
+    "intent": "no_crime"
+  },
+  {
+    "post": "money debited from bank account",
+    "intent": "financial"
+  },
+  {
+    "post": "how do I report a fake profile on facebook?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I lost my debit card",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "what can I do if I am not able to log into my twitter account",
+    "intent": "hacking"
+  },
+  {
+    "post": "money debited from debit card without my knowledge",
+    "intent": "financial"
+  },
+  {
+    "post": "I got a message saying I won a prize",
+    "intent": "lottery"
+  },
+  {
+    "post": "What should I do if I am receiving hate text messages on instagram?",
+    "intent": "harassment"
+  },
+  {
+    "post": "I am not able to log onto any of my social media profiles",
+    "intent": "hacking"
+  },
+  {
+    "post": "why am I not able to log into fb facebook snapchat twitter",
+    "intent": "hacking"
+  },
+  {
+    "post": "my twitter account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "my insta was hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "How old are you?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "someone is misusing my private information",
+    "intent": "data theft"
+  },
+  {
+    "post": "when the unsolicited material starts to include threats,abuse and bullying is is a cause for concern",
+    "intent": "harassment"
+  },
+  {
+    "post": "our organization has been constantly losing its data over past few days",
+    "intent": "data theft"
+  },
+  {
+    "post": "is asking money for selling watermelons a crime",
+    "intent": "no_crime"
+  },
+  {
+    "post": "Did I win a lottery or a prize money as defined in the message that I got??",
+    "intent": "lottery"
+  },
+  {
+    "post": "how to get back the money I transferred for job offer",
+    "intent": "job"
+  },
+  {
+    "post": "what can I do if I am not able to log into my linkedin account",
+    "intent": "hacking"
+  },
+  {
+    "post": "I want your help in finding me  a job",
+    "intent": "no_crime"
+  },
+  {
+    "post": "who is the best hacker of all time",
+    "intent": "no_crime"
+  },
+  {
+    "post": "our system administrator might have leaked our system data",
+    "intent": "data theft"
+  },
+  {
+    "post": "cyber stalking is a criminal  practice in which attacker use internet and other electronic devices to persistently harass victims",
+    "intent": "harassment"
+  },
+  {
+    "post": "money debited from debit card",
+    "intent": "financial"
+  },
+  {
+    "post": "cannot log into Gmail",
+    "intent": "hacking"
+  },
+  {
+    "post": "information loss",
+    "intent": "data theft"
+  },
+  {
+    "post": "How to fight pickpocketers",
+    "intent": "no_crime"
+  },
+  {
+    "post": "can I get money if I sent the incorrect amount",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I sent money to unknown UPI Id",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "someone is misusing my private data",
+    "intent": "data theft"
+  },
+  {
+    "post": "my biometrics have been leaked online",
+    "intent": "data theft"
+  },
+  {
+    "post": "receiving multiple obscene merssages on whatsapp, messenger , text messages or text on facebbok amounts to harassment",
+    "intent": "harassment"
+  },
+  {
+    "post": "I received a call from my bank asking for security verification and I shared my card details for verification",
+    "intent": "financial"
+  },
+  {
+    "post": "how do I unfriend or remove a friend on facebook?",
+    "intent": "harassment"
+  },
+  {
+    "post": "my instagram is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "did some one changed the password of my account?",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got a message that I will be receiving Christmas offer gifts but I need to pay the servicing fee charges",
+    "intent": "lottery"
+  },
+  {
+    "post": "I got a mail which said I have won 5 lakh rupees as a part of lottery prize, they are demanding 20000 rupees as a processing fee. What to do now?",
+    "intent": "lottery"
+  },
+  {
+    "post": "I shared all the card details with the customer care executive of the bank",
+    "intent": "financial"
+  },
+  {
+    "post": "windows 10 got hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "which week is this",
+    "intent": "no_crime"
+  },
+  {
+    "post": "my twitter is being operated by someone else",
+    "intent": "hacking"
+  },
+  {
+    "post": "Someone is logged in to my facebook",
+    "intent": "hacking"
+  },
+  {
+    "post": "hey I got a job offer in a company with 7 lakhs package. They are asking me to pay Rs 20000 as a token amount for the job",
+    "intent": "job"
+  },
+  {
+    "post": "Officer called from RBI saying if I did not disclose the card information , my bank account will be closed but I did not share",
+    "intent": "financial"
+  },
+  {
+    "post": "some people have taken control over my data information",
+    "intent": "data theft"
+  },
+  {
+    "post": "someone cut open my bag and stole valuables",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I received a message last month notifying me that I have won 100000 USD and advised to transfer the processing fee of 8 lakh INR and I transferred the said amount",
+    "intent": "lottery"
+  },
+  {
+    "post": "how can i get back my lost bag purse helmet bike car",
+    "intent": "no_cyber_crime"
+  },
+  {
+    "post": "I got hacked by some hacker.",
+    "intent": "hacking"
+  },
+  {
+    "post": "I cannot get into my fb",
+    "intent": "hacking"
+  },
+  {
+    "post": "I am not able to get into the snapchat account which I created. What to do?",
+    "intent": "hacking"
+  },
+  {
+    "post": "my snapchat account has been hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "vegetable vendor gave me damaged notes is it a cyber crime?",
+    "intent": "no_crime"
+  },
+  {
+    "post": "i lost some money because of responding to a lucky draw competition",
+    "intent": "lottery"
+  },
+  {
+    "post": "received job offer via mail which says I have been selected. They are asking me to transfer amount",
+    "intent": "job"
+  },
+  {
+    "post": "someone hacked my mobile",
+    "intent": "hacking"
+  },
+  {
+    "post": "lucky draw prize",
+    "intent": "lottery"
+  },
+  {
+    "post": "I sent some money to the company which said I got selected in their recruitment process but now I want the money back. How do I get that?",
+    "intent": "job"
+  },
+  {
+    "post": "is hacking legal in india",
+    "intent": "no_crime"
+  },
+  {
+    "post": "I got a request from an unverified user and I approved the request",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "Officer called from RBI saying if I did not disclose the card information , my bank account will be closed",
+    "intent": "financial"
+  },
+  {
+    "post": "our company lost  a huge database because of data theft",
+    "intent": "data theft"
+  },
+  {
+    "post": "I made error in judgment while approving the payment request",
+    "intent": "e-wallet"
+  },
+  {
+    "post": "I got a call today regarding a lottery win which I do not know about. They are asking me to send some processing fee. What is this?",
+    "intent": "lottery"
+  },
+  {
+    "post": "It says that I won the grand suzuki prize for ultimate personality. Is it true or a scam?",
+    "intent": "lottery"
+  },
+  {
+    "post": "Company asked me money for tower installation at my terrace",
+    "intent": "lottery"
+  },
+  {
+    "post": "my facebook id is hacked , what can I do",
+    "intent": "hacking"
+  },
+  {
+    "post": "I got SMS stating that my credit card was used for a purchase of worth 20000 but I have not purchased anything",
+    "intent": "financial"
+  },
+  {
+    "post": "I got a message that my number has won 23 crores in Airtel challenge",
+    "intent": "lottery"
+  },
+  {
+    "post": "my sensitive information has been stolen from the internet",
+    "intent": "data theft"
+  },
+  {
+    "post": "I paid money for lottery can I get it back?",
+    "intent": "lottery"
+  },
+  {
+    "post": "it looks like my laptop is hacked",
+    "intent": "hacking"
+  },
+  {
+    "post": "data insecure",
+    "intent": "data theft"
+  }
+]

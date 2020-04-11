@@ -1,0 +1,474 @@
+[
+  {
+    "post": "SMS",
+    "intent": "sms"
+  },
+  {
+    "post": "message",
+    "intent": "sms"
+  },
+  {
+    "post": "email message",
+    "intent": "email"
+  },
+  {
+    "post": "call",
+    "intent": "call"
+  },
+  {
+    "post": "mail on my mobile",
+    "intent": "email"
+  },
+  {
+    "post": "no call",
+    "intent": "no_contact"
+  },
+  {
+    "post": "received call from them on phone",
+    "intent": "call"
+  },
+  {
+    "post": "I did not get email",
+    "intent": "no_contact"
+  },
+  {
+    "post": "yahoo",
+    "intent": "email"
+  },
+  {
+    "post": "no",
+    "intent": "no_contact"
+  },
+  {
+    "post": "they called me to inform",
+    "intent": "call"
+  },
+  {
+    "post": "sms on my mobile",
+    "intent": "sms"
+  },
+  {
+    "post": "I am glad they didn't do that",
+    "intent": "no_contact"
+  },
+  {
+    "post": "they called",
+    "intent": "call"
+  },
+  {
+    "post": "electronic mail",
+    "intent": "email"
+  },
+  {
+    "post": "gmail",
+    "intent": "email"
+  },
+  {
+    "post": "luckily no messages",
+    "intent": "no_contact"
+  },
+  {
+    "post": "I didn't get message",
+    "intent": "no_contact"
+  },
+  {
+    "post": "I got a text message",
+    "intent": "sms"
+  },
+  {
+    "post": "they didn�t call me",
+    "intent": "no_contact"
+  },
+  {
+    "post": "multimedia message",
+    "intent": "sms"
+  },
+  {
+    "post": "massege",
+    "intent": "sms"
+  },
+  {
+    "post": "I did not get mail",
+    "intent": "no_contact"
+  },
+  {
+    "post": "mail",
+    "intent": "email"
+  },
+  {
+    "post": "received a text saying I won lottery",
+    "intent": "sms"
+  },
+  {
+    "post": "massegge",
+    "intent": "sms"
+  },
+  {
+    "post": "received call",
+    "intent": "call"
+  },
+  {
+    "post": "he called",
+    "intent": "call"
+  },
+  {
+    "post": "received call yesterday",
+    "intent": "call"
+  },
+  {
+    "post": "yes",
+    "intent": "sms"
+  },
+  {
+    "post": "got call",
+    "intent": "call"
+  },
+  {
+    "post": "dial",
+    "intent": "call"
+  },
+  {
+    "post": "EMAIL",
+    "intent": "email"
+  },
+  {
+    "post": "calling",
+    "intent": "call"
+  },
+  {
+    "post": "voice call",
+    "intent": "call"
+  },
+  {
+    "post": "male",
+    "intent": "email"
+  },
+  {
+    "post": "e-mail",
+    "intent": "email"
+  },
+  {
+    "post": "they dialled me",
+    "intent": "call"
+  },
+  {
+    "post": "messege",
+    "intent": "sms"
+  },
+  {
+    "post": "she called",
+    "intent": "call"
+  },
+  {
+    "post": "no msg",
+    "intent": "no_contact"
+  },
+  {
+    "post": "yes message",
+    "intent": "sms"
+  },
+  {
+    "post": "text",
+    "intent": "sms"
+  },
+  {
+    "post": "nothin",
+    "intent": "no_contact"
+  },
+  {
+    "post": "they not call me",
+    "intent": "no_contact"
+  },
+  {
+    "post": "they called and told me I have won",
+    "intent": "call"
+  },
+  {
+    "post": "email on my computer",
+    "intent": "email"
+  },
+  {
+    "post": "Email",
+    "intent": "email"
+  },
+  {
+    "post": "ya, sms",
+    "intent": "sms"
+  },
+  {
+    "post": "they phoned me",
+    "intent": "call"
+  },
+  {
+    "post": "they did not call me",
+    "intent": "no_contact"
+  },
+  {
+    "post": "email",
+    "intent": "email"
+  },
+  {
+    "post": "I did not receive any message",
+    "intent": "no_contact"
+  },
+  {
+    "post": "nope",
+    "intent": "no_contact"
+  },
+  {
+    "post": "email from the company",
+    "intent": "email"
+  },
+  {
+    "post": "did not call",
+    "intent": "no_contact"
+  },
+  {
+    "post": "mesege",
+    "intent": "sms"
+  },
+  {
+    "post": "mail message",
+    "intent": "email"
+  },
+  {
+    "post": "call on my phone",
+    "intent": "call"
+  },
+  {
+    "post": "nothing on my phone",
+    "intent": "no_contact"
+  },
+  {
+    "post": "msg",
+    "intent": "sms"
+  },
+  {
+    "post": "those people called",
+    "intent": "call"
+  },
+  {
+    "post": "yes sms",
+    "intent": "sms"
+  },
+  {
+    "post": "got a whatsapp message",
+    "intent": "sms"
+  },
+  {
+    "post": "mobile message",
+    "intent": "sms"
+  },
+  {
+    "post": "they called and told",
+    "intent": "call"
+  },
+  {
+    "post": "mail on my laptop",
+    "intent": "email"
+  },
+  {
+    "post": "phoned",
+    "intent": "call"
+  },
+  {
+    "post": "email from the thief",
+    "intent": "email"
+  },
+  {
+    "post": "not even whatsapp",
+    "intent": "no_contact"
+  },
+  {
+    "post": "no mail",
+    "intent": "no_contact"
+  },
+  {
+    "post": "called my mobile",
+    "intent": "call"
+  },
+  {
+    "post": "got a message on mail",
+    "intent": "email"
+  },
+  {
+    "post": "I did not receive any call from them",
+    "intent": "no_contact"
+  },
+  {
+    "post": "get call",
+    "intent": "call"
+  },
+  {
+    "post": "got a mail",
+    "intent": "email"
+  },
+  {
+    "post": "yes text",
+    "intent": "sms"
+  },
+  {
+    "post": "E-mail",
+    "intent": "email"
+  },
+  {
+    "post": "I had received an SMS",
+    "intent": "sms"
+  },
+  {
+    "post": "Yeah i was contacted via an E-mail",
+    "intent": "email"
+  },
+  {
+    "post": "nothing",
+    "intent": "no_contact"
+  },
+  {
+    "post": "phone",
+    "intent": "call"
+  },
+  {
+    "post": "no contact",
+    "intent": "no_contact"
+  },
+  {
+    "post": "I had received a SMS",
+    "intent": "sms"
+  },
+  {
+    "post": "contact through e-mail",
+    "intent": "email"
+  },
+  {
+    "post": "contact through phone",
+    "intent": "call"
+  },
+  {
+    "post": "contact through message",
+    "intent": "sms"
+  },
+  {
+    "post": "contact via message",
+    "intent": "sms"
+  },
+  {
+    "post": "mail on my phone",
+    "intent": "email"
+  },
+  {
+    "post": "getting a call",
+    "intent": "call"
+  },
+  {
+    "post": "I am lucky they didn't contact",
+    "intent": "no_contact"
+  },
+  {
+    "post": "received a text",
+    "intent": "sms"
+  },
+  {
+    "post": "got a call",
+    "intent": "call"
+  },
+  {
+    "post": "nah",
+    "intent": "no_contact"
+  },
+  {
+    "post": "I did not get any message",
+    "intent": "no_contact"
+  },
+  {
+    "post": "email from organization",
+    "intent": "email"
+  },
+  {
+    "post": "multimedia massage",
+    "intent": "sms"
+  },
+  {
+    "post": "they called and informed",
+    "intent": "call"
+  },
+  {
+    "post": "they dialed me",
+    "intent": "call"
+  },
+  {
+    "post": "yes i got msg",
+    "intent": "sms"
+  },
+  {
+    "post": "no email",
+    "intent": "no_contact"
+  },
+  {
+    "post": "I didn't receive a single call from them",
+    "intent": "no_contact"
+  },
+  {
+    "post": "received a call from them",
+    "intent": "call"
+  },
+  {
+    "post": "whatsapp",
+    "intent": "sms"
+  },
+  {
+    "post": "ya, message",
+    "intent": "sms"
+  },
+  {
+    "post": "mail from the company",
+    "intent": "email"
+  },
+  {
+    "post": "lucky to get no calls",
+    "intent": "no_contact"
+  },
+  {
+    "post": "got a message on gmail",
+    "intent": "email"
+  },
+  {
+    "post": "no no",
+    "intent": "no_contact"
+  },
+  {
+    "post": "they did nothing to contact me",
+    "intent": "no_contact"
+  },
+  {
+    "post": "no message nothing",
+    "intent": "no_contact"
+  },
+  {
+    "post": "information mail",
+    "intent": "email"
+  },
+  {
+    "post": "text mail",
+    "intent": "email"
+  },
+  {
+    "post": "I received a message",
+    "intent": "sms"
+  },
+  {
+    "post": "ya, i got mail",
+    "intent": "email"
+  },
+  {
+    "post": "yes i got email",
+    "intent": "email"
+  },
+  {
+    "post": "yes i got a call",
+    "intent": "call"
+  },
+  {
+    "post": "ya i got a call",
+    "intent": "call"
+  }
+]
